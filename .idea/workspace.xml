@@ -1,6 +1,304 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20b76344-3411-4376-b83a-fff84f32f835" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BotSito/To-Do" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotSito/largo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/10/Contra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/10/Convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/10/Desviacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/10/Ejercicios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/10/Multiplos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/10/facto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/EFunciones/Absoluto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/EFunciones/Anios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/EFunciones/Dadito.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/EFunciones/ReveHateNAr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/EFunciones/SumDigi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/EFunciones/SumFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/EFunciones/SumSimple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Ejercicios/Factores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Ejercicios/Figurines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Ejercicios/Sumat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Ejercicios/Sumatoria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Ejercicios/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Ejercicios/clase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Ejercicios/datos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Ejercicios/datos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Funci/Fibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Funci/Figur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Funci/Hailstone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Funci/Suerte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Gui/Cadena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Gui/Findear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Gui/Pangrama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Gui/Remplazar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Gui/Selector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Heart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/LeerNDelT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/Num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manuel-Files/NumeroDeHeil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parcial1/Pregunta1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parcial1/Pregunta2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parcial1/Pregunta3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parcial1/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/.idea/Red-Neuronal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Ejecut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Menor.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Multi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/Menor.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/Multi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/Pima.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/Red.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/Red2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/Simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/TenRed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/datos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/diabetes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Presentacion/heart_failture.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Red2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/RedSK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/Red_neuronal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/datos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Red-Neuronal/pima-indians-diabetes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UCU-Informatic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UCU-Informatic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manuel-Files/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Manuel-Files/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Red-Neuronal/Presentacion/Red.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1s8WnzCA9tgrV95WyO0VYYP4T6P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MTHome" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MobSF-master" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\manue\Documents\GitHub\UCU-Informatic\Red-Neuronal\Presentacion" />
+      <recent name="C:\Users\manue\Documents\GitHub\UCU-Informatic\BotSito" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manue\Documents\GitHub\UCU-Informatic\Red-Neuronal\Presentacion" />
+      <recent name="C:\Users\manue\Documents\GitHub\UCU-Informatic\Red-Neuronal" />
+      <recent name="C:\Users\manue\Documents\GitHub\UCU-Informatic\Red-Neuronal\Game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Pangrama">
+    <configuration name="Cadena" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UCU-Informatic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Manuel-Files/Gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Manuel-Files/Gui/Cadena.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Findear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UCU-Informatic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Manuel-Files/Gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Manuel-Files/Gui/Findear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pangrama" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UCU-Informatic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Manuel-Files/Gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Manuel-Files/Gui/Pangrama.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Remplazar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UCU-Informatic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Manuel-Files/Gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Manuel-Files/Gui/Remplazar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UCU-Informatic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Manuel-Files/Gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Manuel-Files/Gui/Selector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Pangrama" />
+        <item itemvalue="Python.Remplazar" />
+        <item itemvalue="Python.Findear" />
+        <item itemvalue="Python.Cadena" />
+        <item itemvalue="Python.Selector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20b76344-3411-4376-b83a-fff84f32f835" name="Default Changelist" comment="" />
+      <created>1620254869375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620254869375</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="38c3b570-81d0-4f41-9fba-c15690b83539">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="997d2b4f-515f-4b89-837c-3df81151fb6a">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="38c3b570-81d0-4f41-9fba-c15690b83539" value="TOOL_WINDOW" />
+        <entry key="997d2b4f-515f-4b89-837c-3df81151fb6a" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/BotSito/keras-rl" />
+    </ignored-roots>
   </component>
 </project>
